@@ -1,0 +1,8 @@
+# Minimal dependencies to run the Django app locally in fallback mode
+Django>=5.0,<6.0
+PyMuPDF>=1.26.0
+
+# Optional but already used in the project code/tests
+python-dotenv>=1.0.0
+pytest>=7.0.0
+pytest-django>=4.5.0
