@@ -147,24 +147,6 @@ python manage.py runserver
 - Get industry insights and guidance
 - Understand role requirements
 
-## **ScreenShots**
-### Homepage
-![Homepage](screenshots/homepage.png)
-### Upload Resume
-![Upload Resume](screenshots/upload_resume_page.png)
-![Resume Analysis](screenshots/Resume_Analysis.png)
-### Skill Gap Analysis
-![Skill Gap Analysis](screenshots/Skill_Gap_Analysis.png)
-![Skill Gap Analysis](screenshots/Skill_Gap_Analysis2.png)
-### Personalised Recommendations
-![Personalised Recommendations](screenshots/personalised_recommendation.png)
-### Career Path Suggestions
-![Career Path Suggestions](screenshots/Career_path_suggestions.png)
-### Personalised Road Map
-![Road Map](screenshots/RoadMap.jpeg)
-### Chatbot
-![Chatbot](screenshots/ChatBot.jpeg)
-
 ## 🏆 **Hackathon Impact**
 
 ### **Technical Innovation**
@@ -196,9 +178,3 @@ python manage.py runserver
 ## 🎯 **Built by Orbit **
 
 **Orbit AI** - Your intelligent career companion powered by AI.
-
-## 📫 Contact
-
-- **Email:** [Orbit4net@gmail.com](mailto:Orbit4net@gmail.com)  
-- **LinkedIn:** [/linkedin.com/in/Orbit/](https://www.linkedin.com/in/Orbit/)  
-- **GitHub:** [github.com/Orbit-3T](https://github.com/Orbit-3T)  
